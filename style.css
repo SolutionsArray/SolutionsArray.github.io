@@ -1,4 +1,23 @@
- 
+body {
+    display: block;
+    margin: 8px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .center {
     text-align: center;
 }
