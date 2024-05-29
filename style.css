@@ -52,8 +52,8 @@ body {
 
 
 /* stack-header | Start */
-. h3{
-    color: white;
+.stack-header h3{
+    color: grey;
     font-size: 48px;
 
 }
