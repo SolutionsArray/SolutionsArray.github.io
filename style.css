@@ -14,7 +14,8 @@ body {
 }
 #contacts h4{
     text-align: center;
-    color: #fff;
+	color: rgba(61, 61, 90, 0.616);
+    co lor: #fff;
 	font-size: 20px;	
 	font-weight: 900;
 }
