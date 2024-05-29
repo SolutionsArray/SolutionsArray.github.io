@@ -21,6 +21,7 @@ body {
 }
 #self-employed h4,p{
 	display: inline-block;
+    text-align: center;
     pos ition:relative; top:6px;
 }
 #pt h2 {
