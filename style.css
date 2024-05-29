@@ -55,7 +55,7 @@ body {
 	font-size: 60px;	
 }
 
-.joined h4{
+#joined h4{
 	display: inline-block;
     position:relative; top:6px;
 }
