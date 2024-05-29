@@ -19,7 +19,7 @@ body {
 	font-size: 20px;	
 	font-weight: 900;
 }
-#pt h1, h2, h3 {
+#pt h1, h2,== {
 	display: inline-block;
 	text-align: center;
 	font-size: 70px;
