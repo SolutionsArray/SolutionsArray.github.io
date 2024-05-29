@@ -85,6 +85,7 @@ hr {
     hr ::after {
       
     }
+    
     .custom-hr {
         height: 2px;
         border-width: 0;
