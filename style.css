@@ -5,8 +5,13 @@ body {
     margin: 8px;
 }
 /* <div id="contacts"> | Start */
-
-
+#contacts p{
+    text-align: center;
+	co lor: rgba(61, 61, 90, 0.616);
+    color: #fff;
+	font-size: 30px;	
+	font-weight: 900;
+}
 #contacts h3,h4{
     text-align: center;
 	co lor: rgba(61, 61, 90, 0.616);
