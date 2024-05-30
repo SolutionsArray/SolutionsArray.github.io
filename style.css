@@ -32,7 +32,9 @@ body {
 	font-size: 30px;
 }
 /*pt Mobile*/
-@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
+
+}
 
 
 #self-employed p,h2,h4{
