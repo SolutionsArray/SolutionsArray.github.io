@@ -112,6 +112,12 @@ body {
     color: #fff;
     font-size: 20px;
 }
+/*phone - smartphones, iPhone, portrait 480x320 phones*/
+@media only screen and (max-width: 480px) {
+    #phone h3,h2{
+        font-size: 20px;
+      }
+  }
 /*<div id="solutions-array"> | End*/
 
 .section-paragraphs p{
