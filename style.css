@@ -126,7 +126,7 @@ body {
 
 
 
-
+  content: "\A";
         white-space: pre-line;
         text-align: center;
         color: #fef90a;
