@@ -74,7 +74,8 @@ body {
 }
 /* stack-header | End */
 #work-urls a{
-    color: #01b3f7; 
+    color: #01b3f7;
+    strong
 }
 
 h3{
