@@ -79,7 +79,7 @@ body {
 }
 
 /*<div id="solutions-array"> | Start*/
-#secure-solutions {
+#secure-solutions h3{
     color: #fff;
     font-size: 30px;
 }
