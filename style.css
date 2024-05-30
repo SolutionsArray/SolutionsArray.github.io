@@ -34,7 +34,7 @@ body {
 /*pt smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
     #pt h2,h3{
-
+        font-size: 10px;
       }
   }
 
