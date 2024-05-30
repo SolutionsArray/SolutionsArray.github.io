@@ -32,10 +32,11 @@ body {
 	font-size: 30px;
 }
 /*pt smartphones, iPhone, portrait 480x320 phones*/
-@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ }
-	font-size: 10px;{
-}
-}
+@media only screen and (max-width: 480px) {
+    #one{
+
+      }
+  }
 
 #self-employed p,h2,h4{
 	display: inline-block;
