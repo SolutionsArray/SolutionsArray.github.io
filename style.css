@@ -6,8 +6,8 @@ body {
 }
 /* <div id="contacts"> | Start */
 #contacts p{
-    
     text-align: center;
+    line-height: normal;
     color: #fff;
 }
 #contacts h3,h4{
