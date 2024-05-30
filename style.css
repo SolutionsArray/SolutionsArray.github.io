@@ -117,6 +117,8 @@ body {
     #solutions-array h3{
         display: inline-block;
 
+        display: flex; 
+  flex-direction: column;
 
         white-space: pre-line;
         text-align: center;
