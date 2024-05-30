@@ -44,20 +44,16 @@ body {
     posi tion:relative; t op:6px;
 }
 
-
 /*phone - Desktop*/
 #phone h2,h3 {
 
 }
 /*phone - smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
-    #phone h3,h2{
+    #pho ne h3,h2{
         font-size: 20px;
       }
   }
-
-
-
 
 .joined p{
 	display: inline-block;
