@@ -32,6 +32,12 @@ body {
 	font-size: 30px;
 }
 /*pt Mobile*/
+pt h2,h3 {
+	display: inline-block;
+	text-align: center;
+	font-size: 30px;
+}
+
 
 #self-employed p,h2,h4{
 	display: inline-block;
