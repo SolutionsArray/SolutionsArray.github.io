@@ -78,7 +78,11 @@ body {
     font-weight: bold;
 }
 
-#secure-solutions
+#secure-solutions{
+    color: #fff;
+    font-size: 30px;
+
+}
 
 #solutions-array h3{
     color: #7400A9;
