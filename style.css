@@ -6,7 +6,7 @@ body {
 }
 /* <div id="contacts"> | Start */
 #contacts p{
-    text-align: center;
+    text-align: left;
     line-height: normal;
     color: #fff;
 }
