@@ -46,14 +46,14 @@ body {
 
 
 /*pt - Desktop*/
-#pt h2,h3 {
+#phone h2,h3 {
 	display: inline-block;
 	text-align: center;
 	font-size: 30px;
 }
 /*pt - smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
-    #pt h3,h2{
+    #phone h3,h2{
         font-size: 20px;
       }
   }
