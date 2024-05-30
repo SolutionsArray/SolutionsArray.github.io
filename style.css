@@ -114,9 +114,9 @@ body {
 }
 /*phone - smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
-    #phone h3,h2{
-        font-size: 20px;
-      }
+    #solutions-array h3{
+        color: #fef90a;
+        font-size: 30px;
   }
 /*<div id="solutions-array"> | End*/
 
