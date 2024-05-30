@@ -33,7 +33,7 @@ body {
 }
 /*pt Mobile*/
 #pt h2,h3 @media (min-width:320px)   { /* smartphones, iPhone, portrait 480x320 phones */ 
-	font-size: 10px;
+	font-size: 10px;{}
 }
 
 
