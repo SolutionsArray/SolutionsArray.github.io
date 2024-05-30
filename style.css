@@ -115,12 +115,12 @@ body {
 /*phone - smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
     #solutions-array h3{
-        dis play: inline-block;
+        display: inline-block;
 
-        display: flex;
-  flex-direction: column;
 
-        whi te-space: pre-line;
+
+
+        white-space: pre-line;
         text-align: center;
         color: #fef90a;
         font-size: 20px;
