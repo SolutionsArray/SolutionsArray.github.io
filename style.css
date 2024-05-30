@@ -25,17 +25,17 @@ body {
 	font-size: 20px;	
 	font-weight: 900;
 }
+#pt h2,h3 {
+	display: inline-block;
+	text-align: center;
+	font-size: 30px;
+}
 #self-employed p,h2,h4{
 	display: inline-block;
     text-align: center;
     posi tion:relative; t op:6px;
 }
 
-#pt h2,h3 {
-	display: inline-block;
-	text-align: center;
-	font-size: 30px;
-}
 .joined p{
 	display: inline-block;
 	text-align: center;
