@@ -125,12 +125,12 @@ body {
 /*--- <div id="solutions-array"> | Start ---*/
 #secure-solutions h3{
     color: #fff;
-    font-size: 30px;
+    font-size: 20px;
 }
 @media only screen and (max-width: 480px) {
     #secure-solutions img{
         width: 10%;
-    font-size: 10px;
+    font-size: 0px;
     }
   }
 
