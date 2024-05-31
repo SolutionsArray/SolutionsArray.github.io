@@ -105,7 +105,7 @@ body {
     height: 265px;
     width: 265px;
   }
-  .clearfix::after {
+  .cle arfix::af ter {
     content: "";
     clear: both;
     display: table;
