@@ -105,7 +105,12 @@ body {
     height: 265px;
     width: 265px;
   }
-  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+    
 
 
 /*<div id="portfolio-section"> | End */
