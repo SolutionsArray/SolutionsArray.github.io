@@ -91,12 +91,9 @@ body {
 #portfolio-section {
     position: relative;
 	display: flex;
+    justify-content: space-between; /* Optional: Adds space between blocks */
 	text-align: left;
 }
-#portfolio-section {
-    display: flex;
-    justify-content: space-between; /* Optional: Adds space between blocks */
-  }
   .block {
     flex: 1; /* Allows blocks to grow and shrink equally */
     border: 1px solid #ECEDE8;
