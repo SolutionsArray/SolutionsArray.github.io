@@ -99,7 +99,7 @@ body {
     margin: 10px 10px;
     overflow: hidden;
     height: 1165px;
-    width: 1165px;
+    width: 65px;
   }
   .clea rfix::after {
     content: "";
