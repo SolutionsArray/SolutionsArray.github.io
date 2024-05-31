@@ -157,7 +157,7 @@ body {
   @media only screen and (max-width: 480px) {
     #solutionsarray.com {
         width: 10%;
-        font-size: 20px;
+    font-size: 20px;
     }
   }
 
