@@ -91,6 +91,12 @@ body {
 #portfolio-section {
 	display: inline-block;
 	text-align: left;
+
+
+    width: 20%; display: inline-block; position: relative; text-align: left;
+
+
+
 }
 
 
