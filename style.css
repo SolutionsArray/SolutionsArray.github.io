@@ -89,7 +89,7 @@ body {
 
 /*<div id="portfolio-section"> | Start */
 #portfolio-section {
-    posi tion: relative;
+    position: relative;
 	display: flex;
 	text-align: left;
 }
