@@ -27,7 +27,7 @@ body {
 }
 /*pt - Desktop*/
 #pt h2,h3 {
-	disp lay: inline-block;
+	display: inline-block;
 	text-align: center;
 	font-size: 30px;
 }
