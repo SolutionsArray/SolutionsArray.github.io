@@ -124,8 +124,7 @@ body {
 }
 @media only screen and (max-width: 480px) {
 .stack-header h3{
-
-
+    font-size: 40px;
     }
   }
 /* stack-header | End */
