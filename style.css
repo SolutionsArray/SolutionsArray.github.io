@@ -89,7 +89,8 @@ body {
 
 /*<div id="portfolio-section"> | Start */
 #portfolio-section {
-	disp lay: flex;
+    position: relative;
+	display: flex;
     justify-content: space-between; /* Optional: Adds space between blocks */
 	text-align: left;
 }
