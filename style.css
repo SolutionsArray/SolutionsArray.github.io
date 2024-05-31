@@ -88,7 +88,7 @@ body {
 /* <div id="contacts"> | End */
 
 /*<div id="portfolio-section"> | Start */
-#portfolio-section {
+#portfolio-row1 {
 	display: flex;
     justify-content: space-between; /* Optional: Adds space between blocks */
 	text-align: left;
