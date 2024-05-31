@@ -93,7 +93,7 @@ body {
 	display: flex;
 	text-align: left;
 }
-#main {
+#portfolio-section {
     display: flex;
     justify-content: space-between; /* Optional: Adds space between blocks */
   }
