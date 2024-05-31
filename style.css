@@ -155,7 +155,7 @@ body {
 
 
   @media only screen and (max-width: 480px) {
-    #solutions-array p{
+    #solutionsarray.com p{
         color: #fff;
         font-size: 20px;
     }
