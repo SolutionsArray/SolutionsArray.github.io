@@ -148,8 +148,8 @@ body {
 /*phone - smartphones, iPhone, portrait 480x320 phones*/
 @media (max-width: 600px) {
     .center,.paragraph {
-       font-size: 2px; /* Reduced font size */
-       line-height: 1.5; /* Adjusted line height */
+       font-si ze: 28px; /* Reduced font size */
+       line-heig ht: 1.5; /* Adjusted line height */
      }
    }
    
