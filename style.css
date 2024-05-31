@@ -91,7 +91,7 @@ body {
 #portfolio-section {
 	display: flex;
     justify-content: space-between; /* Optional: Adds space between blocks */
-	text-align: center;
+	text-align: right;
 }
   .block {
     flex: 1; /* Allows blocks to grow and shrink equally */
