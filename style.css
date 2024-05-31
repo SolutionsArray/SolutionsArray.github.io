@@ -39,7 +39,7 @@ body {
   }
 
 #self-employed p,h2,h4{
-	disp lay: inline-block;
+	display: inline-block;
     text-align: center;
     posi tion:relative; t op:6px;
 
@@ -57,31 +57,31 @@ body {
   }
 
 .joined p{
-	disp lay: inline-block;
+	display: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 150px;	
 }
 .joined h1{
-	displ ay: inline-block;
+	display: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 150px;	
 }
 .joined h2{
-	dis play: inline-block;
+	display: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 150px;	
 }
 .joined h3{
-	dis play: inline-block;
+	display: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 60px;	
 }
 .joined h4{
-	disp lay: inline-block;
+	display: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 60px;	
