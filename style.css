@@ -146,28 +146,7 @@ body {
     font-size: 20px;
 }
 /*phone - smartphones, iPhone, portrait 480x320 phones*/
-.center {
-    text-align: center;
-    font-family: "Meddon", cursive;
-    font-size: 30px;
-    /* Removed absolute positioning */
-  }
-  
-  .paragraph {
-    width: 80%; /* Adjust width as needed */
-    margin: auto; /* Centers the paragraph */
-    /* Removed absolute positioning */
-  }
 
-  @media (max-width: 600px) {
-    .center {
-       font-size: 24px; /* Smaller font size for mobile */
-     }
-     
-    .paragraph {
-       width: 95%; /* Wider paragraph for better readability on small screens */
-     }
-   }
    
    
 
