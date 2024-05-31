@@ -98,8 +98,8 @@ body {
     border: 1px solid #ECEDE8;
     margin: 10px 10px;
     overflow: hidden;
-    height: 165px;
-    width: 165px;
+    height: 1165px;
+    width: 1165px;
   }
   .clea rfix::after {
     content: "";
