@@ -45,7 +45,7 @@ body {
 
 }
 @media only screen and (max-width: 480px) {
-    #self-emp loyed img{
+    #self-employed img{
         disp lay: inline-block;
         text-align: center;
         width: 20rem;
