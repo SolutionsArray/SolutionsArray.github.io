@@ -91,6 +91,7 @@ body {
 #portfolio-section {
     position: relative;
 	display: flex;
+    justify-content: space-between; /* Optional: Adds space between blocks */
 	text-align: left;
 }
 #portfolio-section {
