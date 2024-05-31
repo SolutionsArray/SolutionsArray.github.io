@@ -122,8 +122,14 @@ body {
     color: #c0c0c0;
     font-size: 48px;
 }
-
+@media only screen and (max-width: 480px) {
+    #self-employed img{
+        text-align: center;
+        width: 25rem;
+    }
+  }
 /* stack-header | End */
+
 .work-urls a{
     color: #01b3f7;
     font-weight: bold;
