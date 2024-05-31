@@ -45,7 +45,7 @@ body {
 
 }
 @media only screen and (max-width: 480px) {
-    #self-employed p,h2,h4{
+    #self-employed p,h2,h4,img{
         display: inline-block;
         text-align: center;
         white-space: pre;
