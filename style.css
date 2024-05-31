@@ -100,6 +100,9 @@ body {
     overflow: hidden;
     height: 265px;
     width: 265px;
+
+    block-size: 500px; /* Sets the width of the element in a vertical writing mode */
+  writing-mode: vertical-lr; /* Example writing mode */
   }
   .clearfix::after {
     content: "";
