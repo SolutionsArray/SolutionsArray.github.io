@@ -101,7 +101,7 @@ body {
     height: 165px;
     width: 165px;
   }
-  .clea rfix::after {
+  .clea rfix::af ter {
     content: "";
     clear: both;
     display: table;
