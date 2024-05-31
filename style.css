@@ -102,7 +102,7 @@ body {
     width: 265px;
 
     blo ck-size: 500px; /* Sets the width of the element in a vertical writing mode */
-  writing-mode: vertical-lr; /* Example writing mode */
+  writi ng-mode: vertical-lr; /* Example writing mode */
   }
   .clearfix::after {
     content: "";
