@@ -96,6 +96,7 @@ body {
 /*--- Connect - START */
 
 #connect{
+    position:relative;
     top:145px; 
 
 }
