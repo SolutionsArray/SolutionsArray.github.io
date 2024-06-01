@@ -95,10 +95,9 @@ body {
 
 /*--- Connect - START */
 
-#connect-div {
-    position:relative; 
+#connect-main {
+    posi tion:relative; 
     bottom:25px; 
-
 }
 
 /*--- Connect - END */
