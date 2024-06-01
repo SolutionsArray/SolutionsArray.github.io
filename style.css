@@ -2,7 +2,7 @@ body {
     background: #1B1B25;
     text-align: center;
     display: block;
-    mar gin: 8px;
+    margin: 8px;
 }
 /*--- <div id="contacts"> | Start ---*/
 #contacts p{
@@ -112,7 +112,7 @@ body {
   .block {
     flex: 1; /* Allows blocks to grow and shrink equally */
     border: 1px solid #ECEDE8;
-    mar gin: 10px 10px;
+    margin: 10px 10px;
     overflow: hidden;
     height: 265px;
     width: 265px;
@@ -241,5 +241,5 @@ hr {
         background-color: gray;
         width: 50%;
         text-align: left;
-        marg in-left: 0;
+        margin-left: 0;
     }
