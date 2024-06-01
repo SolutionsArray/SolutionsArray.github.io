@@ -1,7 +1,7 @@
 body {
     background: #1B1B25;
     text-align: center;
-    display: block;
+    dis play: block;
     margin: 8px;
 }
 /*--- <div id="contacts"> | Start ---*/
@@ -27,7 +27,7 @@ body {
 }
 /*pt - Desktop*/
 #pt h2,h3 {
-	display: inline-block;
+	dis play: inline-block;
 	text-align: center;
 	font-size: 30px;
 }
@@ -39,7 +39,7 @@ body {
   }
 
 #self-employed p,h2,h4{
-	display: inline-block;
+	dis play: inline-block;
     text-align: center;
     posi tion:relative; t op:6px;
 }
