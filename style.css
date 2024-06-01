@@ -112,7 +112,7 @@ body {
   .block {
     flex: 1; /* Allows blocks to grow and shrink equally */
     border: 1px solid #ECEDE8;
-    margin: 10px 10px;
+    mar gin: 10px 10px;
     overflow: hidden;
     height: 265px;
     width: 265px;
@@ -241,5 +241,5 @@ hr {
         background-color: gray;
         width: 50%;
         text-align: left;
-        margin-left: 0;
+        marg in-left: 0;
     }
