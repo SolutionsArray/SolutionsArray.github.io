@@ -27,7 +27,7 @@ body {
 }
 /*pt - Desktop*/
 #pt h2,h3 {
-	dis play: inline-block;
+	display: inline-block;
 	text-align: center;
 	font-size: 30px;
 }
@@ -39,7 +39,7 @@ body {
   }
 
 #self-employed p,h2,h4{
-	dis play: inline-block;
+	display: inline-block;
     text-align: center;
     posi tion:relative; t op:6px;
 }
