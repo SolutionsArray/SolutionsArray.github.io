@@ -31,7 +31,7 @@ body {
 /* - smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
 #contacts h2,h3,h4 {
-		font-size: 14px !imp ortant;
+		font-size: 14px ;
 	}
 }
 
