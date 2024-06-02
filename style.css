@@ -204,7 +204,7 @@ section-portfolio {
 
 /*--- Linux CLI | START ---*/ 
 
-section-linux {
+sec tion-linux {
     di splay: block;
     display: inline-block;
     he ight:26rem;
@@ -221,7 +221,7 @@ section-linux {
   }
 
 
-  pre, input {
+  p re, input {
     --tw-text-opacity: 1;
   color: rgba(110,231,183,var(--tw-text-opacity));
     font-size: .875rem;
@@ -229,14 +229,14 @@ section-linux {
 white-space: nowrap;
 }
 
-#terminal > div.flex.items-center > input {
+#ter minal > div.flex.items-center > input {
  color: white;
   font-size: .875rem;
   line-height: 1.25rem;
 }
 
 
-pre {
+p re {
 white-space: pre-wrap;       /* css-3 */
 white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
 white-space: -pre-wrap;      /* Opera 4-6 */
