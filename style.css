@@ -185,6 +185,10 @@ section-linux {
     back ground-size: cover;
     background-size: 100% 1000px;
     height: 100vh;
+
+
+    display: inline-block;
+	text-align: center;
   }
 
 /*--- Linux CLI | END ---*/
