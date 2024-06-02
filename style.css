@@ -130,8 +130,8 @@ section-portfolio {
     max-width: 100%;
     background-image: url('images/wp.jpg');
     background-repeat: no-repeat;
-    backgr ound-size: cover;
-    background-size: 326rem;
+    background-size: cover;
+
     height: 100vh;
   }
 
