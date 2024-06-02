@@ -121,6 +121,19 @@ body {
 
 /*--- Portfolio | START ---*/
 
+section-portfolio {
+    display: block;
+    height:26rem;
+    width: 100%;
+    padding: 0 7%;
+    margin: 0;
+    max-width: 100%;
+    background-image: url('images/wp.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+
 .portfolio-join p {
 	display: inline-block;
 	text-align: center;
