@@ -86,7 +86,7 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-#skype span, {
+#skype h4,span, {
 		font-size: 1px !important;
 	}
 }
