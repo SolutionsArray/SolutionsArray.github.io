@@ -125,9 +125,9 @@ section-portfolio {
     di splay: block;
     display: inline-block;
 
-    he ight:26rem;
-    he ight: 500px; /* Set the height of the element */
-    wid th: 100%;
+    height:26rem;
+    height: 500px; /* Set the height of the element */
+    width: 100%;
     pad ding: 0 7%;
     margin: 0;
     max-width: 100%;
