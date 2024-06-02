@@ -146,11 +146,11 @@ section-portfolio {
     he ight:26rem;
     he ight: 500px; /* Set the height of the element */
     wid th: 100%;
-    pad ding: 0 7%;
+    padding: 0 7%;
     mar gin: 0;
     ma x-width: 100%;
     background-image: url('images/wp.png');
-    back ground-repeat: no-repeat;
+    background-repeat: no-repeat;
     back ground-size: cover;
     background-size: 25% 50%;
     hei ght: 100vh;
