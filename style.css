@@ -12,19 +12,6 @@ body {
 	min-height: 1000px;
 }
 
-section-portfolio {
-    display: block;
-    height:26rem;
-    width: 100%;
-    padding: 0 7%;
-    margin: 0;
-    max-width: 100%;
-    background-image: url('images/wp.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-  }
-
 
 /*--- <div id="contacts"> | Start ---*/
 #contacts p {
