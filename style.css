@@ -126,16 +126,16 @@ section-portfolio {
     display: inline-block;
 
     he ight:26rem;
-    height: 500px; /* Set the height of the element */
-    width: 100%;
-    padding: 0 7%;
-    margin: 0;
-    max-width: 100%;
-    background-image: url('images/wp.png');
-    background-repeat: no-repeat;
+    he ight: 500px; /* Set the height of the element */
+    wid th: 100%;
+    pad ding: 0 7%;
+    mar gin: 0;
+    ma x-width: 100%;
+    backg round-image: url('images/wp.png');
+    back ground-repeat: no-repeat;
     back ground-size: cover;
-    background-size: 25% 50%;
-    height: 100vh;
+    bac kground-size: 25% 50%;
+    hei ght: 100vh;
   }
 
 .portfolio-join p {
