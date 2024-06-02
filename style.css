@@ -123,7 +123,8 @@ body {
 
 section-portfolio {
     display: block;
-    height:26rem;
+    he ight:26rem;
+    height: 500px; /* Set the height of the element */
     width: 100%;
     padding: 0 7%;
     margin: 0;
