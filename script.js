@@ -1,5 +1,4 @@
 /*--- Linux CLI | START ---*/ 
-
 import {Termino} from 'https://cdn.jsdelivr.net/gh/MarketingPipeline/Termino.js@v1.0.2/dist/termino.min.js';
 
 
@@ -60,5 +59,4 @@ operable program or batch file.</div>`)
 }
 
  runBasicInput()
-
 /*--- Linux CLI | END ---*/
