@@ -21,7 +21,7 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-    #con tacts h2 {
+    #contacts h2 {
             font-size: 24px!important;
         }
     }
