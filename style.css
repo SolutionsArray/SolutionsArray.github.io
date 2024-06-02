@@ -121,6 +121,17 @@ body {
 
 /*--- Portfolio | START ---*/
 
+p {
+    background-image: url('images/wp.png'); 
+  }
+
+
+
+
+
+
+
+
 sec tion-portfolio {
     di splay: block;
     display: inline-block;
