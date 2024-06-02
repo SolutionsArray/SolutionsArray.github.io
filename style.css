@@ -112,7 +112,7 @@ body {
 /*--- Connect - END */
 
 
-/*<div id="portfolio-section"> | Start */
+/*--- Portfolio | Start -*/
 #portfolio-row1, #portfolio-row2 {
 	display: flex;
     justify-content: space-between; /* Optional: Adds space between blocks */
