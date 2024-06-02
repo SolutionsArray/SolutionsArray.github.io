@@ -28,7 +28,7 @@ body {
 	font-size: 30px;
 	font-weight: 900;
 }
-/*pt - smartphones, iPhone, portrait 480x320 phones*/
+/* - smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
 	#pt h3,h2 {
 		font-size: 20px;
