@@ -125,6 +125,13 @@ section {
 
 /*--- Portfolio | START ---*/
 
+.portfolio-join p {
+	display: inline-block;
+	text-align: center;
+	color: #01b3f7;
+	font-size: 50px;
+}
+
 #portfolio-row1, #portfolio-row2 {
 	display: flex;
 	justify-content: space-between;
