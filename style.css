@@ -124,7 +124,7 @@ body {
 section-portfolio {
     display: block;
     height:26rem;
-    width: 10%;
+    width: 100%;
     padding: 0 7%;
     margin: 0;
     max-width: 100%;
