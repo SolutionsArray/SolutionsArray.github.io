@@ -172,7 +172,7 @@ section-portfolio {
   
 /*--- Linux CLI | END ---*/
 
-section-portfolio {
+section-linu {
     display: block;
     he ight:26rem;
     height: 500px; /* Set the height of the element */
@@ -180,7 +180,7 @@ section-portfolio {
     padding: 0 7%;
     margin: 0;
     max-width: 100%;
-    background-image: url('images/wp.jpg');
+    background-image: url('images/yellow.png');
     background-repeat: no-repeat;
     back ground-size: cover;
     background-size: 100% 1000px;
