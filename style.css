@@ -30,7 +30,7 @@ body {
 }
 /* - smartphones, iPhone, portrait 480x320 phones*/
 @media only screen and (max-width: 480px) {
-#cont acts h2,h3,h4 {
+#contacts h2,h3,h4 {
 		font-size: 16px!important;
 	}
 }
