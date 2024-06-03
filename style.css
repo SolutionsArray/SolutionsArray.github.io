@@ -14,6 +14,13 @@ body {
 
 
 /*--- <div id="contacts"> | Start ---*/
+@media only screen and (max-width: 480px) {
+	#domain img {
+		width: 100%;
+		font-size: 0px;
+	}
+}
+
 #contacts p {
 	text-align: center;
 	line-height: 0px;
