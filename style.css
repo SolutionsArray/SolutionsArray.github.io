@@ -150,7 +150,7 @@ body {
 /*--- Connect - START */
 
 #solutions-main {
-    display: inline-block;
+    disp lay: inline-block;
 
 	position: relative;
 	bottom: 25px;
