@@ -154,7 +154,7 @@ body {
 	bottom: 25px;
 }
 @media only screen and (max-width: 480px) {
-#solutions-main {
+#solutions-main span {
     display: block;
             font-size: 15px !important;
         }
