@@ -111,8 +111,8 @@ body {
         }
 
         @media only screen and (max-width: 480px) {
-            #skype i {
-                    width: 50%;
+            #skype is {
+                    width: 5%;
                     font-size: 1px !important;
 
                 }
