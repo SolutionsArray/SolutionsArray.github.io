@@ -155,7 +155,7 @@ body {
 }
 @media only screen and (max-width: 480px) {
 #solutions-main p {
-    display: none;
+    display: inline-block;
             font-size: 15px !important;
         }
     }
