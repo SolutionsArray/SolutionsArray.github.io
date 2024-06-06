@@ -156,7 +156,7 @@ body {
 	bottom: 25px;
 }
 @media only screen and (max-width: 480px) {
-.mobile-break p,br, {
+.mobile-break p,br {
     di splay: inline-block;
     display: none; 
     white-space: pre-line; /* collapse WS, preserve LB */
