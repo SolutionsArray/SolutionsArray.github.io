@@ -100,8 +100,8 @@ body {
 
 
 @media only screen and (max-width: 480px) {
-    #sky pe h4,span {
-            fo nt-size: 10px !important;
+    #skype h4,span {
+            font-size: 10px !important;
         }
     }
 
