@@ -94,7 +94,7 @@ body {
 
 @media only screen and (max-width: 480px) {
 #skype a {
-		font-size: 1px !important;
+		font-size: 10px !important;
 	}
 }
 
