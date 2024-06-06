@@ -155,7 +155,7 @@ body {
 }
 @media only screen and (max-width: 480px) {
 .mobile-break { 
-    display: none; 
+    display: block; 
     display: inline-block;
     white-space: pre-line; /* collapse WS, preserve LB */
     font-size: 15px !important;
