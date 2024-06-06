@@ -93,14 +93,14 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-#skype h4,span,a, {
+#skype h4,span,a {
 		font-size: 100px !important;
 	}
 }
 
 
 @media only screen and (max-width: 480px) {
-    #skype h4,span,a, {
+    #sky pe h4,span,a, {
             font-size: 100px !important;
         }
     }
@@ -108,7 +108,7 @@ body {
 
 
     @media only screen and (max-width: 480px) {
-        #skype h4,span,a, {
+        #sk ype h4,span,a, {
                 font-size: 100px !important;
             }
         }
