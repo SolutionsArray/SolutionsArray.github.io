@@ -157,7 +157,7 @@ body {
 .mobile-break p,br {
     di splay: inline-block;
     display: none; 
-    white-space: pre-line; /* collapse WS, preserve LB */
+    whi te-space: pre-line; /* collapse WS, preserve LB */
     font-size: 15px !important;
         }
     }
