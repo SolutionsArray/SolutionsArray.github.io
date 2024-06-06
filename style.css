@@ -153,6 +153,11 @@ body {
 	position: relative;
 	bottom: 25px;
 }
+@media only screen and (max-width: 480px) {
+    #skype span {
+            font-size: 15px !important;
+        }
+    }
 
 /*--- Connect - END */
 
