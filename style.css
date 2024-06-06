@@ -155,8 +155,8 @@ body {
 }
 @media only screen and (max-width: 480px) {
 .mobile-break p,br, {
-    display: inline-block;
-    dis play: none; 
+    dis play: inline-block;
+    display: none; 
     white-space: pre-line; /* collapse WS, preserve LB */
     font-size: 15px !important;
         }
