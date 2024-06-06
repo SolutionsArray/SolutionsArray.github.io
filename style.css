@@ -92,11 +92,6 @@ body {
 	}
 }
 
-@media only screen and (max-width: 480px) {
-#sk ype a {
-		fo nt-size: 10px !important;
-	}
-}
 
 @media only screen and (max-width: 480px) {
     #skype span {
