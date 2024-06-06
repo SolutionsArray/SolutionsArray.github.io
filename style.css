@@ -99,6 +99,24 @@ body {
 }
 
 
+@media only screen and (max-width: 480px) {
+    #skype h4,span,a, {
+            font-size: 100px !important;
+        }
+    }
+
+
+
+    @media only screen and (max-width: 480px) {
+        #skype h4,span,a, {
+                font-size: 100px !important;
+            }
+        }
+
+
+
+
+
 
 
 .join p {
