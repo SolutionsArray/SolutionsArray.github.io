@@ -157,7 +157,7 @@ body {
 #solutions-main p,br {
     display: inline-block;
     white-space: pre-line; /* collapse WS, preserve LB */
-            font-size: 15px !important;
+            fo nt-size: 15px !important;
         }
     }
 
