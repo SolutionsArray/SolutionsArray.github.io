@@ -111,7 +111,7 @@ body {
         }
 
         @media only screen and (max-width: 480px) {
-            #skype h4 {
+            #skype img {
                     img-size: 1px !important;
                 }
             }
