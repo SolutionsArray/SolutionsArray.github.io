@@ -155,9 +155,16 @@ body {
 }
 @media only screen and (max-width: 480px) { 
 .mobile-break { 
+
+
+
+	content: "\a";
+
+	display: none;
     display: block;
     display: inline-block;
     white-space: pre-line; /* collapse WS, preserve LB */
+	white-space: pre;
     font-size: 15px !important;
         }
     }
